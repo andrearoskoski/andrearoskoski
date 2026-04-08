@@ -27,8 +27,7 @@
  - I have two cats, and we are hoping to move somewhere new this year :)
 <br>
 <div align = "center">
-![IMG_20260406_193810](https://github.com/user-attachments/assets/3a203c00-44cb-464e-952e-fa2e3fb88e41)
-</div>
+<img src="https://github.com/user-attachments/assets/b53f4c67-60c8-481c-a30e-0d94ce07b8b2" alt="Cats" width="400"</div>
 
 <!--
 **andrearoskoski/andrearoskoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
