@@ -24,6 +24,9 @@
 
 <hr>
 
+ - I have two cats, and we are hoping to move somewhere new this year :)
+ - 
+
 <!--
 **andrearoskoski/andrearoskoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
