@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Serif&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andrea+Roskoski!;" />
+</h1>
+
+### A Computer Science student, excited about a future in Data Analytics and Science
+
 <!--
 **andrearoskoski/andrearoskoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
